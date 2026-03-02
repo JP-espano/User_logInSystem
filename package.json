@@ -1,5 +1,5 @@
 {
-  "name": "jp-and-gab-user-log-in-attemp-1",
+  "name": "user-management-system",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,14 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.98.0",
-    "@tailwindcss/vite": "^4.2.1",
     "bootstrap": "^5.3.8",
-    "lucide-react": "^0.575.0",
     "react": "^19.2.0",
-    "react-dom": "^19.2.0",
-    "react-router-dom": "^7.13.1",
-    "tailwindcss": "^4.2.1"
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",
